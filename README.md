@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Mwasigwa
-- 👀 I’m interested in UI/UX Design
+- 👋 Hi, I’m Mars
+- 👀 I’m interested in UI Design
 - 🌱 I’m currently learning Software Engineering 
 
 <!---
