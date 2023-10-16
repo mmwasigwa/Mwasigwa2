@@ -1,1 +1,1 @@
-![alt](https://imgur.com/undefined)
+![Image Alt Text](image.svg)
