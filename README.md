@@ -13,9 +13,3 @@
 [![React](https://img.shields.io/badge/-react-333333?style=flat&logo=tech2&logoColor=white)](https://tech2-website.com)
 [![React Redux](https://img.shields.io/badge/-react_redux-333333?style=flat&logo=tech2&logoColor=white)](https://tech2-website.com)
 [![Tailwind CSS](https://img.shields.io/badge/-tailwind_css-333333?style=flat&logo=tech2&logoColor=white)](https://tech2-website.com)
-
-## 📈 GitHub Stats
-
-![Mwasigwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mwasigwa2&show_icons=true&theme=transparent)
-
-
