@@ -16,7 +16,6 @@
 
 ## 📈 GitHub Stats
 
-[![Mwasigwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mwasigwa2)](https://github.com/Mwasigwa2/github-readme-stats)
-
+![Mwasigwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazr&show_icons=true&theme=transparent)
 
 
