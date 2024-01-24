@@ -2,7 +2,7 @@
 <h1 align="center">🚀 Hey there! I'm Mwasigwa </h1>
 
 <p align="center">
-  A passionate [Front-End Developer] from [Nairobi], on a mission to create software that inspires.
+  A passionate Front-End Developer from Nairobi, on a mission to create projects that inspire.
 </p>
 
 
