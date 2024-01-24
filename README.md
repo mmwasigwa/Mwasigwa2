@@ -1,11 +1,8 @@
-<p align="center">
-  <img src="https://your-cool-image-url" alt="Your Name" width="200"/>
-</p>
 
-<h1 align="center">🚀 Hey there! I'm [Your Name]</h1>
+<h1 align="center">🚀 Hey there! I'm Mwasigwa </h1>
 
 <p align="center">
-  A passionate [Your Role] from [Your Location], on a mission to create software that inspires.
+  A passionate [Front-End Developer ] from [Nairobi], on a mission to create software that inspires.
 </p>
 
 <p align="center">
@@ -22,8 +19,12 @@
 
 ## 🛠️ Technologies & Tools
 
-[![Tech1](https://img.shields.io/badge/-Tech1-333333?style=flat&logo=tech1&logoColor=white)](https://tech1-website.com)
-[![Tech2](https://img.shields.io/badge/-Tech2-333333?style=flat&logo=tech2&logoColor=white)](https://tech2-website.com)
+[![html](https://img.shields.io/badge/-Tech1-333333?style=flat&logo=tech1&logoColor=white)](https://tech1-website.com)
+[![css](https://img.shields.io/badge/-Tech2-333333?style=flat&logo=tech2&logoColor=white)](https://tech2-website.com)
+[![React](https://img.shields.io/badge/-Tech2-333333?style=flat&logo=tech2&logoColor=white)](https://tech2-website.com)
+[![React Redux](https://img.shields.io/badge/-Tech2-333333?style=flat&logo=tech2&logoColor=white)](https://tech2-website.com)
+[![Tailwind CSS](https://img.shields.io/badge/-Tech2-333333?style=flat&logo=tech2&logoColor=white)](https://tech2-website.com)
+
 
 ## 🚀 Projects
 
