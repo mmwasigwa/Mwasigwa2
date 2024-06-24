@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Mwasigwa
+# 👋 Hey there! 
 
 A passionate Front-End Developer from Nairobi, on a mission to create projects that inspire.
 
